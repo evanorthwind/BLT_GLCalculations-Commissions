@@ -3,10 +3,17 @@
   "description": "Transactional Process",
   "main": "Main.xaml",
   "dependencies": {
+    "BalaReva.Excel.Activities": "2019.4.0",
+    "BalaReva.ZipUnzip.Activities": "2019.4.1",
+    "Microsoft.Activities": "1.0.1",
     "UiPath.Excel.Activities": "[2.5.4]",
+    "UiPath.FTP.Activities": "1.0.7346.28183",
     "UiPath.Mail.Activities": "[1.4.1]",
+    "UiPath.PivotDataTable.Activities": "1.0.0",
     "UiPath.System.Activities": "[19.4.1]",
-    "UiPath.UIAutomation.Activities": "[19.4.2]"
+    "UiPath.UIAutomation.Activities": "[19.4.2]",
+    "UiPathTeam.DatatablesComparison.Activities": "1.0.9",
+    "UiPathTeam.UnZipFile.Activities": "1.2.0"
   },
   "schemaVersion": "3.2",
   "studioVersion": "19.4.4.0",
